@@ -23,6 +23,52 @@ $footer-bg: #ffffff;
 
 main.content {
   max-width: 46rem;
+  margin-inline: auto;
+}
+
+div.quarto-about-trestles {
+  padding-top: 1.5em;
+}
+
+div.quarto-about-trestles .about-entity {
+  flex: 0 0 34%;
+}
+
+div.quarto-about-trestles .about-contents {
+  border-left: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-decoration-color: rgba(28, 78, 107, 0.35);
+  text-underline-offset: 2px;
+}
+
+.paper-title,
+.about-link,
+.paper-links a {
+  text-decoration: none;
+}
+
+.paper-title:hover,
+.paper-links a:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 1.15rem;
+}
+
+.news ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.news li {
+  display: grid;
+  grid-template-columns: 6em 1fr;
+  margin-bottom: 0.5rem;
 }
 
 h2 {

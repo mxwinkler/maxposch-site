@@ -34,13 +34,18 @@ My research has been published in the *Journal of Political Economy* and is fort
 
 ## Recent
 
-- Jul 2026 — "The Political Economy of Propaganda" (with Sebastian Ottinger) accepted at the *Journal of the European Economic Association*. [PDF](files/Ottinger_Posch_PoliticalEconomyOfPropaganda_December_2025.pdf)
-- Apr 2026 — "How Cultural Diversity Drives Innovation" is out in the *Journal of Political Economy*, 134(4). [PDF](files/Posch_Schulz_Henrich_Cultural_Diversity_Innovation.pdf)
-- Jul 2025 — "Doux Commerce" (with Tzachi Raz) featured on [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/07/markets-culture-and-cooperation-in-1850-1920-u-s.html).
+::: {.news}
+- [Jul 2026]{.news-date} ["The Political Economy of Propaganda" (with Sebastian Ottinger) accepted at the *Journal of the European Economic Association*. [PDF](files/Ottinger_Posch_PoliticalEconomyOfPropaganda_December_2025.pdf)]{.news-body}
+- [Apr 2026]{.news-date} ["How Cultural Diversity Drives Innovation" is out in the *Journal of Political Economy*, 134(4). [PDF](files/Posch_Schulz_Henrich_Cultural_Diversity_Innovation.pdf)]{.news-body}
+- [Jul 2025]{.news-date} ["Doux Commerce" (with Tzachi Raz) featured on [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/07/markets-culture-and-cooperation-in-1850-1920-u-s.html).]{.news-body}
+:::
 
 ## Upcoming talks
 
-- Sep 2026 — 12th WZB Conference on Migration and Diversity, Berlin
-- Sep 2026 — Stigler Center Affiliate Fellows Conference, Chicago Booth
+::: {.news}
+- [Sep 2026]{.news-date} [Stigler Center Affiliate Fellows Conference, Chicago Booth]{.news-body}
+- [Sep 2026]{.news-date} [12th WZB Conference on Migration and Diversity, Berlin]{.news-body}
+- [Sep 2026]{.news-date} [ASREC Europe Conference, Venice]{.news-body}
+:::
 
 [Past talks →](talks.qmd)

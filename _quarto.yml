@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Max Posch"
+  search: false
   description: "Max Posch — Lecturer (Assistant Professor) in Economics, University of Exeter. Political economy, economic development, economic history, and cultural evolution."
   navbar:
     left:
@@ -38,5 +39,7 @@ website:
 format:
   html:
     theme: [cosmo, custom.scss]
+    grid:
+      body-width: 1000px
     toc: false
     link-external-newwindow: true
