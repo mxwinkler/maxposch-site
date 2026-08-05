@@ -8,7 +8,7 @@ title: "Teaching"
 
 This course uses a historical and political economy approach to study the evolution and comparative development of societies, focusing on the role of domestic institutions and culture.
 
-**Intermediate Microeconomics (BEE2025)**
+**Microeconomics II (BEE2025)**
 
 This undergraduate-level course is part one of a two-part series covering the foundations of microeconomics. It focuses on the consumer side of the economy (the theory of the consumer and pure exchange economies).
 
