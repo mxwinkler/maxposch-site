@@ -26,7 +26,7 @@ about:
       href: files/CV-Max-Posch.pdf
 ---
 
-I am a Lecturer (Assistant Professor) in the [Department of Economics, University of Exeter](http://business-school.exeter.ac.uk/about/departments/economics/). My other affiliations include: research associate at Harvard University's [Culture, Cognition, Coevolution Lab](https://coevolution.fas.harvard.edu/current-lab-members), and affiliate fellow at the University of Chicago Booth School of Business's [Stigler Center](https://www.chicagobooth.edu/research/stigler/research/affiliate-fellows/current-cohort). I hold a PhD in economics from the University of Zurich.
+I am a Lecturer (Assistant Professor) in the [Department of Economics, University of Exeter](http://business-school.exeter.ac.uk/about/departments/economics/). My other affiliations include: research associate at [Harvard University's Culture, Cognition, Coevolution Lab](https://coevolution.fas.harvard.edu/current-lab-members), and affiliate fellow at the [University of Chicago Booth School of Business's Stigler Center](https://www.chicagobooth.edu/research/stigler/research/affiliate-fellows/current-cohort). I hold a PhD in economics from the University of Zurich.
 
 I study how culture and institutions shape economic and political development — and how they are, in turn, reshaped by markets, migration, and crises. My work combines large-scale historical data (newspapers, censuses, patents) with field experiments, spanning political economy, economic development, economic history, and cultural evolution.
 
@@ -44,7 +44,7 @@ My research has been published in the *Journal of Political Economy* and is fort
 
 ::: {.news}
 - [17–18 Sep 2026]{.news-date} [Stigler Center Affiliate Fellows Conference, Chicago Booth]{.news-body}
-- [24–26 Sep 2026]{.news-date} [12th WZB Conference on Migration and Diversity, Berlin]{.news-body}
+- [24–25 Sep 2026]{.news-date} [12th WZB Conference on Migration and Diversity, Berlin]{.news-body}
 - [26 Sep 2026]{.news-date} [ASREC Europe Conference, Venice]{.news-body}
 :::
 
