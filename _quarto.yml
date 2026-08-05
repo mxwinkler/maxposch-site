@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - fonts/
 
 website:
   title: "Max Posch"
@@ -24,15 +25,6 @@ website:
       - icon: envelope
         href: mailto:m.posch@exeter.ac.uk
         aria-label: Email
-      - icon: twitter-x
-        href: https://twitter.com/_MaxPosch_
-        aria-label: X
-      - icon: linkedin
-        href: https://www.linkedin.com/in/max-posch-3297a166
-        aria-label: LinkedIn
-      - icon: github
-        href: https://github.com/mxwinkler
-        aria-label: GitHub
   page-footer:
     center: "Max Posch · m.posch@exeter.ac.uk"
 

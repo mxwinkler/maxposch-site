@@ -43,9 +43,9 @@ My research has been published in the *Journal of Political Economy* and is fort
 ## Upcoming talks
 
 ::: {.news}
-- [Sep 2026]{.news-date} [Stigler Center Affiliate Fellows Conference, Chicago Booth]{.news-body}
-- [Sep 2026]{.news-date} [12th WZB Conference on Migration and Diversity, Berlin]{.news-body}
-- [Sep 2026]{.news-date} [ASREC Europe Conference, Venice]{.news-body}
+- [17–18 Sep 2026]{.news-date} [Stigler Center Affiliate Fellows Conference, Chicago Booth]{.news-body}
+- [24–26 Sep 2026]{.news-date} [12th WZB Conference on Migration and Diversity, Berlin]{.news-body}
+- [26 Sep 2026]{.news-date} [ASREC Europe Conference, Venice]{.news-body}
 :::
 
 [Past talks →](talks.qmd)
