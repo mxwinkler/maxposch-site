@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  # Only .qmd files are pages. Keeps README/AGENTS/CLAUDE out of the public site.
+  render:
+    - "*.qmd"
   resources:
     - CNAME
 

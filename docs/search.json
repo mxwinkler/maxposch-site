@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Max Posch",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "I am a Lecturer (Assistant Professor) in the Department of Economics, University of Exeter. My other affiliations include: research associate at Harvard University’s Culture, Cognition, Coevolution Lab, and affiliate fellow at the University of Chicago Booth School of Business’s Stigler Center. I hold a PhD in economics from the University of Zurich.\nI study how culture and institutions shape economic and political development — and how they are, in turn, reshaped by markets, migration, and crises. My work combines large-scale historical data (newspapers, censuses, patents) with field experiments, spanning political economy, economic development, economic history, and cultural evolution.\nMy research has been published in the Journal of Political Economy and is forthcoming in the Journal of the European Economic Association. Some of my earlier work appeared under my former name, Max Winkler."
+    "text": "Economics of Culture and Institutions (BEE3073)\nThis course uses a historical and political economy approach to study the evolution and comparative development of societies, focusing on the role of domestic institutions and culture.\nIntermediate Microeconomics (BEE2025)\nThis undergraduate-level course is part one of a two-part series covering the foundations of microeconomics. It focuses on the consumer side of the economy (the theory of the consumer and pure exchange economies)."
   },
   {
-    "objectID": "index.html#recent",
-    "href": "index.html#recent",
-    "title": "Max Posch",
-    "section": "Recent",
-    "text": "Recent\n\n\nJul 2026 “The Political Economy of Propaganda” (with Sebastian Ottinger) accepted at the Journal of the European Economic Association. PDF\nApr 2026 “How Cultural Diversity Drives Innovation” is out in the Journal of Political Economy, 134(4). PDF\nJul 2025 “Doux Commerce” (with Tzachi Raz) featured on Marginal Revolution."
+    "objectID": "teaching.html#courses-at-exeter",
+    "href": "teaching.html#courses-at-exeter",
+    "title": "Teaching",
+    "section": "",
+    "text": "Economics of Culture and Institutions (BEE3073)\nThis course uses a historical and political economy approach to study the evolution and comparative development of societies, focusing on the role of domestic institutions and culture.\nIntermediate Microeconomics (BEE2025)\nThis undergraduate-level course is part one of a two-part series covering the foundations of microeconomics. It focuses on the consumer side of the economy (the theory of the consumer and pure exchange economies)."
   },
   {
-    "objectID": "index.html#upcoming-talks",
-    "href": "index.html#upcoming-talks",
-    "title": "Max Posch",
-    "section": "Upcoming talks",
-    "text": "Upcoming talks\n\n\n17–18 Sep 2026 Stigler Center Affiliate Fellows Conference, Chicago Booth\n24–25 Sep 2026 12th WZB Conference on Migration and Diversity, Berlin\n26 Sep 2026 ASREC Europe Conference, Venice\n\n\nPast talks →"
+    "objectID": "teaching.html#other-teaching",
+    "href": "teaching.html#other-teaching",
+    "title": "Teaching",
+    "section": "Other teaching",
+    "text": "Other teaching\nProgramming Practices for Research in Economics, co-taught with Lachlan Deer and Julian Langer\nThis graduate-level course provides a state of the art toolkit in data science practices within academic research in economics and business."
+  },
+  {
+    "objectID": "teaching.html#office-hours",
+    "href": "teaching.html#office-hours",
+    "title": "Teaching",
+    "section": "Office hours",
+    "text": "Office hours\nStudents can book office hours here."
   },
   {
     "objectID": "research.html",
@@ -56,32 +63,25 @@
     "text": "Press\n\n\nForbes — “Immigration and Diverse Populace Made America an Innovation Superpower” (October 2023)\nMarginal Revolution — on Doux Commerce (July 2025)\nNational Affairs — on Doux Commerce\nBroadstreet — on The Political Economy of Propaganda\nBecker Friedman Institute — research summary of On the Importance of African Traditional Religion for Economic Behavior"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Max Posch",
     "section": "",
-    "text": "Economics of Culture and Institutions (BEE3073)\nThis course uses a historical and political economy approach to study the evolution and comparative development of societies, focusing on the role of domestic institutions and culture.\nIntermediate Microeconomics (BEE2025)\nThis undergraduate-level course is part one of a two-part series covering the foundations of microeconomics. It focuses on the consumer side of the economy (the theory of the consumer and pure exchange economies)."
+    "text": "I am a Lecturer (Assistant Professor) in the Department of Economics, University of Exeter. My other affiliations include: research associate at Harvard University’s Culture, Cognition, Coevolution Lab, and affiliate fellow at the University of Chicago Booth School of Business’s Stigler Center. I hold a PhD in economics from the University of Zurich.\nI study how culture and institutions shape economic and political development — and how they are, in turn, reshaped by markets, migration, and crises. My work combines large-scale historical data (newspapers, censuses, patents) with field experiments, spanning political economy, economic development, economic history, and cultural evolution.\nMy research has been published in the Journal of Political Economy and is forthcoming in the Journal of the European Economic Association. Some of my earlier work appeared under my former name, Max Winkler."
   },
   {
-    "objectID": "teaching.html#courses-at-exeter",
-    "href": "teaching.html#courses-at-exeter",
-    "title": "Teaching",
-    "section": "",
-    "text": "Economics of Culture and Institutions (BEE3073)\nThis course uses a historical and political economy approach to study the evolution and comparative development of societies, focusing on the role of domestic institutions and culture.\nIntermediate Microeconomics (BEE2025)\nThis undergraduate-level course is part one of a two-part series covering the foundations of microeconomics. It focuses on the consumer side of the economy (the theory of the consumer and pure exchange economies)."
+    "objectID": "index.html#recent",
+    "href": "index.html#recent",
+    "title": "Max Posch",
+    "section": "Recent",
+    "text": "Recent\n\n\nJul 2026 “The Political Economy of Propaganda” (with Sebastian Ottinger) accepted at the Journal of the European Economic Association. PDF\nApr 2026 “How Cultural Diversity Drives Innovation” is out in the Journal of Political Economy, 134(4). PDF\nJul 2025 “Doux Commerce” (with Tzachi Raz) featured on Marginal Revolution."
   },
   {
-    "objectID": "teaching.html#other-teaching",
-    "href": "teaching.html#other-teaching",
-    "title": "Teaching",
-    "section": "Other teaching",
-    "text": "Other teaching\nProgramming Practices for Research in Economics, co-taught with Lachlan Deer and Julian Langer\nThis graduate-level course provides a state of the art toolkit in data science practices within academic research in economics and business."
-  },
-  {
-    "objectID": "teaching.html#office-hours",
-    "href": "teaching.html#office-hours",
-    "title": "Teaching",
-    "section": "Office hours",
-    "text": "Office hours\nStudents can book office hours here."
+    "objectID": "index.html#upcoming-talks",
+    "href": "index.html#upcoming-talks",
+    "title": "Max Posch",
+    "section": "Upcoming talks",
+    "text": "Upcoming talks\n\n\n17–18 Sep 2026 Stigler Center Affiliate Fellows Conference, Chicago Booth\n24–25 Sep 2026 12th WZB Conference on Migration and Diversity, Berlin\n26 Sep 2026 ASREC Europe Conference, Venice\n\n\nPast talks →"
   },
   {
     "objectID": "talks.html",
@@ -124,26 +124,5 @@
     "title": "Talks",
     "section": "2022",
     "text": "2022\n\nAug — EEA-ESEM Congress, Milan\nApr — ASREC Conference, Chapman University\nMar — Economics Seminar, NYU Stern\nFeb — Public Choice Seminar, George Mason University"
-  },
-  {
-    "objectID": "talks.html#section-5",
-    "href": "talks.html#section-5",
-    "title": "Talks",
-    "section": "2021",
-    "text": "2021\nBonn; Brown; Cliometrics Conference; EEA-ESEM; ETH Zurich; New South Wales; NOBEC; Nottingham."
-  },
-  {
-    "objectID": "talks.html#section-6",
-    "href": "talks.html#section-6",
-    "title": "Talks",
-    "section": "2020",
-    "text": "2020\nEHA Conference; Florida State; Harvard."
-  },
-  {
-    "objectID": "talks.html#section-7",
-    "href": "talks.html#section-7",
-    "title": "Talks",
-    "section": "2019",
-    "text": "2019\nASREC US Conference; Brown; ETH Zurich; Harvard."
   }
 ]
