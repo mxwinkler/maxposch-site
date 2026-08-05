@@ -5,7 +5,6 @@ $body-color: #2b2f33;
 $link-color: #1c4e6b;
 $font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
   "Helvetica Neue", Arial, sans-serif;
-$headings-font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
 $headings-font-weight: 600;
 $navbar-bg: #ffffff;
 $navbar-fg: #2b2f33;
@@ -13,21 +12,12 @@ $footer-bg: #ffffff;
 
 /*-- scss:rules --*/
 
-@font-face {
-  font-family: "Source Serif 4";
-  src: url("/fonts/SourceSerif4-SemiBold.woff2") format("woff2");
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-}
-
 .navbar {
   border-bottom: 1px solid #e6e8ea;
 }
 
 .navbar-brand {
-  font-family: "Source Serif 4", Georgia, serif;
-  font-weight: 600;
+  font-weight: 650;
   letter-spacing: 0.01em;
 }
 
