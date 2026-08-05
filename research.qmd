@@ -41,7 +41,7 @@ Can racial outrage in the media be manufactured by elites for political gain? Us
 ## Working papers
 
 ::: {.paper}
-[On the Importance of African Traditional Religion for Economic Behavior](files/2023-11-21-Dunia-Butinda-Amani-Lameke-Nunn-Posch-Sanchez-de-la-Sierra-African-Traditional-Religion.pdf){.paper-title}
+[On the Importance of African Traditional Religion for Economic Behavior](files/Butinda_Lameke_Nunn_Posch_SanchezDeLaSierra_African_Traditional_Religion.pdf){.paper-title}
 
 ::: {.paper-meta}
 with Lewis D. Butinda, [Aimable A. Lameke](https://marakujakivuresearch.com/organization/), [Nathan Nunn](https://nathannunn.arts.ubc.ca), and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com) · Reject & resubmit, [Econometrica]{.paper-venue}
@@ -52,7 +52,7 @@ Beer sellers in the eastern DRC overestimate the risk of theft and hold too litt
 :::
 
 ::: {.paper-links}
-[PDF](files/2023-11-21-Dunia-Butinda-Amani-Lameke-Nunn-Posch-Sanchez-de-la-Sierra-African-Traditional-Religion.pdf) [BFI research summary](https://bfi.uchicago.edu/insight/research-summary/on-the-importance-of-african-traditional-religion-for-economic-behavior/)
+[PDF](files/Butinda_Lameke_Nunn_Posch_SanchezDeLaSierra_African_Traditional_Religion.pdf) [BFI research summary](https://bfi.uchicago.edu/insight/research-summary/on-the-importance-of-african-traditional-religion-for-economic-behavior/)
 :::
 :::
 
