@@ -7,10 +7,7 @@ title: "Talks"
      workshop, internal Exeter seminar, ERINN Venice 2025 (attendance
      unconfirmed). -->
 
-### Upcoming
-
-- Sep 2026 — 12th WZB Conference on Migration and Diversity, Berlin
-- Sep 2026 — Stigler Center Affiliate Fellows Conference, Chicago Booth
+Upcoming talks are listed on the [home page](index.qmd).
 
 ### 2026
 
