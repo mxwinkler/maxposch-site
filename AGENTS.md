@@ -4,7 +4,10 @@ Personal academic website of Max Posch (Quarto → GitHub Pages).
 Read `README.md` first for structure, conventions, and the deploy mechanics; this file
 covers only what an agent needs beyond that.
 
-**Canonical path:** `~/OneDrive - University of Exeter/maxposch-site`
+**Canonical path:** `~/Library/CloudStorage/OneDrive-UniversityofExeter/maxposch-site`
+(`~/OneDrive - University of Exeter/…` is a symlink to the same folder. Use the canonical
+path when starting a session — it is what every other cloud-backed project here uses, and
+it keeps project history and auto-memory in one bucket instead of two.)
 **Remote:** <https://github.com/mxwinkler/maxposch-site> (public)
 **Live:** <https://maxposch.com>
 
