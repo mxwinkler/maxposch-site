@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+## Courses at Exeter
+
+**[Economics of Culture and Institutions (BEE3073)](https://ele.exeter.ac.uk/course/view.php?id=23512)**
+
+This course uses a historical and political economy approach to study the evolution and comparative development of societies, focusing on the role of domestic institutions and culture.
+
+**Intermediate Microeconomics (BEE2025)**
+
+This undergraduate-level course is part one of a two-part series covering the foundations of microeconomics. It focuses on the consumer side of the economy (the theory of the consumer and pure exchange economies).
+
+## Other teaching
+
+**[Programming Practices for Research in Economics](https://pp4rs.github.io/)**, co-taught with [Lachlan Deer](https://lachlandeer.github.io) and [Julian Langer](https://www.julianlanger.org/)
+
+This graduate-level course provides a state of the art toolkit in data science practices within academic research in economics and business.
+
+## Office hours
+
+Students can [book office hours here](https://outlook.office.com/bookwithme/user/2466f2ce05844401984e8b0357da460c@exeter.ac.uk/meetingtype/6z4CGyyeJk2KmWbJnPrAOA2?anonymous&ep=mlink).

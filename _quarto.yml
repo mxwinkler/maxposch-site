@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Max Posch"
+  description: "Max Posch — Lecturer (Assistant Professor) in Economics, University of Exeter. Political economy, economic development, economic history, and cultural evolution."
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Talks
+      - href: files/CV-Max-Posch.pdf
+        text: CV
+    right:
+      - icon: envelope
+        href: mailto:m.posch@exeter.ac.uk
+        aria-label: Email
+      - icon: twitter-x
+        href: https://twitter.com/_MaxPosch_
+        aria-label: X
+      - icon: linkedin
+        href: https://www.linkedin.com/in/max-posch-3297a166
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/mxwinkler
+        aria-label: GitHub
+  page-footer:
+    center: "Max Posch · m.posch@exeter.ac.uk"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: false
+    link-external-newwindow: true

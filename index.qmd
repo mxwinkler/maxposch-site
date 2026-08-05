@@ -1,0 +1,41 @@
+---
+title: "Max Posch"
+image: images/max.jpg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:m.posch@exeter.ac.uk
+    - icon: twitter-x
+      text: "@_MaxPosch_"
+      href: https://twitter.com/_MaxPosch_
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/max-posch-3297a166
+    - icon: github
+      text: GitHub
+      href: https://github.com/mxwinkler
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=GvWW34oAAAAJ
+    - icon: file-earmark-text
+      text: CV
+      href: files/CV-Max-Posch.pdf
+---
+
+I am a Lecturer (Assistant Professor) in the [Department of Economics, University of Exeter](http://business-school.exeter.ac.uk/about/departments/economics/). My other affiliations include: research associate at Harvard University's [Culture, Cognition, Coevolution Lab](https://coevolution.fas.harvard.edu/current-lab-members), and affiliate fellow at the University of Chicago Booth School of Business's [Stigler Center](https://www.chicagobooth.edu/research/stigler/research/affiliate-fellows/current-cohort). I hold a PhD in economics from the University of Zurich.
+
+I study how culture and institutions shape economic and political development — and how they are, in turn, reshaped by markets, migration, and crises. My work combines large-scale historical data (newspapers, censuses, patents) with field experiments, spanning political economy, economic development, economic history, and cultural evolution.
+
+My research has been published in the *Journal of Political Economy* and is forthcoming in the *Journal of the European Economic Association*. Some of my earlier work appeared under my former name, Max Winkler.
+
+## Recent
+
+- Jul 2026 — "The Political Economy of Propaganda" (with Sebastian Ottinger) accepted at the *Journal of the European Economic Association*. [PDF](files/Ottinger_Posch_PoliticalEconomyOfPropaganda_December_2025.pdf)
+- Apr 2026 — "How Cultural Diversity Drives Innovation" is out in the *Journal of Political Economy*, 134(4). [PDF](files/Posch_Schulz_Henrich_Cultural_Diversity_Innovation.pdf)
+- Jul 2025 — "Doux Commerce" (with Tzachi Raz) featured on [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/07/markets-culture-and-cooperation-in-1850-1920-u-s.html).
+
+[Talks →](talks.qmd)

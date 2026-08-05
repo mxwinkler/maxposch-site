@@ -1,0 +1,117 @@
+---
+title: "Research"
+---
+
+I study how culture and institutions shape economic and political development, using large-scale historical data and field experiments.
+
+## Publications
+
+::: {.paper}
+[How Cultural Diversity Drives Innovation: Surnames and Patents in U.S. History](https://www.journals.uchicago.edu/doi/10.1086/739323){.paper-title}
+
+::: {.paper-meta}
+with [Jonathan Schulz](https://sites.google.com/site/jonathanfschulz/) and [Joseph Henrich](https://henrich.fas.harvard.edu) · [Journal of Political Economy]{.paper-venue}, 2026, 134(4): 1245–1305
+:::
+
+::: {.paper-summary}
+Using a surname-based measure of cultural diversity in U.S. counties from 1850 to 1940, we show that rising diversity increased both the quantity and quality of innovation — by expanding the range of ideas available for recombination and fostering the social interactions that spread them.
+:::
+
+::: {.paper-links}
+[PDF](files/Posch_Schulz_Henrich_Cultural_Diversity_Innovation.pdf) [Journal](https://www.journals.uchicago.edu/doi/10.1086/739323) [Replication package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EXE7CK) [Forbes](https://www.forbes.com/sites/stuartanderson/2023/10/18/immigration-and-diverse-populace-made-america-an-innovation-superpower/)
+:::
+:::
+
+::: {.paper}
+[The Political Economy of Propaganda: Evidence from U.S. Newspapers](files/Ottinger_Posch_PoliticalEconomyOfPropaganda_December_2025.pdf){.paper-title}
+
+::: {.paper-meta}
+with [Sebastian Ottinger](https://sites.google.com/view/sebastian-ottinger/) · [Journal of the European Economic Association]{.paper-venue}, accepted
+:::
+
+::: {.paper-summary}
+Can racial outrage in the media be manufactured by elites for political gain? Using high-frequency newspaper data from the late nineteenth-century U.S. South, we find evidence consistent with Democratic elites orchestrating a racist propaganda campaign through local newspapers — and benefiting from it at the polls.
+:::
+
+::: {.paper-links}
+[PDF](files/Ottinger_Posch_PoliticalEconomyOfPropaganda_December_2025.pdf) [Replication package](https://zenodo.org/records/21452316) [Broadstreet](https://www.broadstreet.blog/p/bad-ngrams)
+:::
+:::
+
+## Working papers
+
+::: {.paper}
+[On the Importance of African Traditional Religion for Economic Behavior](files/2023-11-21-Dunia-Butinda-Amani-Lameke-Nunn-Posch-Sanchez-de-la-Sierra-African-Traditional-Religion.pdf){.paper-title}
+
+::: {.paper-meta}
+with Lewis D. Butinda, [Aimable A. Lameke](https://marakujakivuresearch.com/organization/), [Nathan Nunn](https://nathannunn.arts.ubc.ca), and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com) · Reject & resubmit, [Econometrica]{.paper-venue}
+:::
+
+::: {.paper-summary}
+Beer sellers in the eastern DRC overestimate the risk of theft and hold too little inventory as a result. Randomly-timed access to commonly-used protective rituals corrects these beliefs among sellers who believe in their efficacy — raising inventories, sales, and profits.
+:::
+
+::: {.paper-links}
+[PDF](files/2023-11-21-Dunia-Butinda-Amani-Lameke-Nunn-Posch-Sanchez-de-la-Sierra-African-Traditional-Religion.pdf) [BFI research summary](https://bfi.uchicago.edu/insight/research-summary/on-the-importance-of-african-traditional-religion-for-economic-behavior/)
+:::
+:::
+
+::: {.paper}
+[Doux Commerce: Markets, Culture, and Cooperation in 1850–1920 U.S.](files/Posch_Raz_Doux_Commerce.pdf){.paper-title}
+
+::: {.paper-meta}
+with [Itzchak Tzachi Raz](https://www.tzachiraz.com/)
+:::
+
+::: {.paper-summary}
+As railroads integrated American markets between 1850 and 1920, counties gaining market access developed more universalist, tolerant, and trusting cultures — with more impersonal cooperation and less reliance on kin-based support.
+:::
+
+::: {.paper-links}
+[PDF](files/Posch_Raz_Doux_Commerce.pdf) [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/07/markets-culture-and-cooperation-in-1850-1920-u-s.html) [National Affairs](https://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/crossing-culture)
+:::
+:::
+
+::: {.paper}
+[Do Disasters Affect the Tightness of Social Norms?](files/Winkler_jmp.pdf){.paper-title}
+
+::: {.paper-meta}
+New draft coming soon
+:::
+
+::: {.paper-summary}
+Combining data on conflicts, epidemics, and natural and economic disasters with global survey data, I show that disasters tighten social norms — an effect that can persist for decades and is transmitted to the next generation.
+:::
+
+::: {.paper-links}
+[PDF](files/Winkler_jmp.pdf)
+:::
+:::
+
+## Work in progress
+
+::: {.paper}
+[Cultural Change: Evidence from Three Centuries of U.S. Local Newspapers]{.paper-title}
+:::
+
+::: {.paper}
+[Innovation and the Medieval Church]{.paper-title}
+
+::: {.paper-meta}
+with [Slava Savitskiy](https://www.vsavitskiy.com), [Joseph Henrich](https://henrich.fas.harvard.edu), and [Jonathan Schulz](https://sites.google.com/site/jonathanfschulz/)
+:::
+
+::: {.paper-links}
+[Slides](files/2024-05-23-slides-Savitskiy-Schulz-Posch-Henrich-Innovation-Church.pdf)
+:::
+:::
+
+## Press
+
+::: {.press-list}
+- [Forbes](https://www.forbes.com/sites/stuartanderson/2023/10/18/immigration-and-diverse-populace-made-america-an-innovation-superpower/) — "Immigration and Diverse Populace Made America an Innovation Superpower" (October 2023)
+- [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/07/markets-culture-and-cooperation-in-1850-1920-u-s.html) — on *Doux Commerce* (July 2025)
+- [National Affairs](https://www.nationalaffairs.com/blog/detail/findings-a-daily-roundup/crossing-culture) — on *Doux Commerce*
+- [Broadstreet](https://www.broadstreet.blog/p/bad-ngrams) — on *The Political Economy of Propaganda*
+- [Becker Friedman Institute](https://bfi.uchicago.edu/insight/research-summary/on-the-importance-of-african-traditional-religion-for-economic-behavior/) — research summary of *On the Importance of African Traditional Religion for Economic Behavior*
+:::
