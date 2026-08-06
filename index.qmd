@@ -24,6 +24,7 @@ about:
     - icon: file-earmark-text
       text: CV
       href: files/CV-Max-Posch.pdf
+      target: _blank
 ---
 
 I am a Lecturer (Assistant Professor) in the [Department of Economics, University of Exeter](http://business-school.exeter.ac.uk/about/departments/economics/). My other affiliations include: research associate at [Harvard University's Culture, Cognition, Coevolution Lab](https://coevolution.fas.harvard.edu/current-lab-members), and affiliate fellow at the [University of Chicago Booth School of Business's Stigler Center](https://www.chicagobooth.edu/research/stigler/research/affiliate-fellows/current-cohort). I hold a PhD in economics from the University of Zurich.

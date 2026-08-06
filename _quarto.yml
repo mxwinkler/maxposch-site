@@ -24,6 +24,7 @@ website:
         text: Talks
       - href: files/CV-Max-Posch.pdf
         text: CV
+        target: _blank
     right:
       - icon: envelope
         href: mailto:m.posch@exeter.ac.uk
