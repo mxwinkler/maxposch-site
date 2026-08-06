@@ -6,6 +6,7 @@ project:
     - "*.qmd"
   resources:
     - CNAME
+    - .nojekyll
 
 website:
   title: "Max Posch"
