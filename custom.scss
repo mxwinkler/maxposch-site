@@ -26,20 +26,24 @@ main.content {
   margin-inline: auto;
 }
 
-div.quarto-about-trestles {
-  padding-top: 1.5em;
-}
+// Desktop only: Quarto stacks the trestles layout below 992px, where a
+// sticky, flex-basis-constrained entity column overlaps the body text.
+@media (min-width: 992px) {
+  div.quarto-about-trestles {
+    padding-top: 1.5em;
+  }
 
-div.quarto-about-trestles .about-entity {
-  flex: 0 0 34%;
-  position: sticky;
-  top: 5rem;
-  align-self: flex-start;
-}
+  div.quarto-about-trestles .about-entity {
+    flex: 0 0 34%;
+    position: sticky;
+    top: 5rem;
+    align-self: flex-start;
+  }
 
-div.quarto-about-trestles .about-contents {
-  border-left: none;
-  padding-left: 0;
+  div.quarto-about-trestles .about-contents {
+    border-left: none;
+    padding-left: 0;
+  }
 }
 
 a {
@@ -72,6 +76,15 @@ h3 {
   display: grid;
   grid-template-columns: 8.5em 1fr;
   margin-bottom: 0.5rem;
+}
+
+// Narrow screens: put the date on its own line so the text keeps a usable measure.
+@media (max-width: 575.98px) {
+  .news li {
+    grid-template-columns: 1fr;
+    row-gap: 0.1rem;
+    margin-bottom: 0.9rem;
+  }
 }
 
 h2 {
