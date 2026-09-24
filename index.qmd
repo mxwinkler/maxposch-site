@@ -46,6 +46,7 @@ My research has been published in the *Journal of Political Economy* and is fort
 ::: {.news}
 - [24–25 Sep 2026]{.news-date} [12th WZB Conference on Migration and Diversity, Berlin]{.news-body}
 - [26 Sep 2026]{.news-date} [ASREC Europe Conference, Venice]{.news-body}
+- [17 Mar 2027]{.news-date} [Economic History Seminar, Stanford University]{.news-body}
 :::
 
 [Past talks →](talks.qmd)
