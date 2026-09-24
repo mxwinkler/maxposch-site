@@ -11,6 +11,7 @@ Upcoming talks are listed on the [home page](index.qmd).
 
 ## 2026
 
+- Sep — Stigler Center Affiliate Fellows Conference, Chicago Booth
 - Jul — SIOE Annual Conference, INSEAD
 - Jun — Second City History and Economics Meeting, University of Birmingham
 - Jun — Workshop on Persistence and Cultural Transmission, Queen's University Belfast
