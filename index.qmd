@@ -36,7 +36,7 @@ My research has been published in the *Journal of Political Economy* and is fort
 ## Recent
 
 ::: {.news}
-- [Oct 2026]{.news-date} [New version of "Doux Commerce" (with Itzchak Tzachi Raz), on markets, culture, and cooperation in the historical U.S. [PDF](files/Posch_Raz_Doux_Commerce.pdf)]{.news-body}
+- [Oct 2026]{.news-date} [New version of "Doux Commerce" (with Itzchak Tzachi Raz), on how market integration reshapes culture in the historical U.S. [PDF](files/Posch_Raz_Doux_Commerce.pdf)]{.news-body}
 - [Jul 2026]{.news-date} ["The Political Economy of Propaganda" (with Sebastian Ottinger) accepted at the *Journal of the European Economic Association*. [PDF](files/Ottinger_Posch_PoliticalEconomyOfPropaganda_December_2025.pdf)]{.news-body}
 - [Apr 2026]{.news-date} ["How Cultural Diversity Drives Innovation" is out in the *Journal of Political Economy*, 134(4). [PDF](files/Posch_Schulz_Henrich_Cultural_Diversity_Innovation.pdf)]{.news-body}
 - [Jul 2025]{.news-date} ["Doux Commerce" (with Tzachi Raz) featured on [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/07/markets-culture-and-cooperation-in-1850-1920-u-s.html).]{.news-body}
