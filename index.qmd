@@ -48,9 +48,12 @@ My research has been published in the *Journal of Political Economy* and is fort
      7 Oct 2026: UC Merced, "Possible seminar visit in March?" (28–30 Sep);
      UCLA, "UCLA visit in March?" (26–28 Sep); Berkeley, "Berkeley Political
      Economy / Economic History Seminar" (25–28 Sep); Stanford, "Seminar
-     invitation" (19–21 Aug). -->
+     invitation" (19–21 Aug). UC Davis: "Max Posch's Economic History
+     Seminar" (7–8 Oct 2026; Spark thread 248222), agreed Tuesday 9 March
+     afternoon; weekday and March 2027 itinerary resolve early 2026 typos. -->
 
 ::: {.news}
+- [9 Mar 2027]{.news-date} [Economic History Seminar, University of California, Davis]{.news-body}
 - [10 Mar 2027]{.news-date} [Seminar, University of California, Merced]{.news-body}
 - [11 Mar 2027]{.news-date} [Seminar, UCLA Anderson School of Management]{.news-body}
 - [15 Mar 2027]{.news-date} [Political Economy / Economic History Seminar, University of California, Berkeley]{.news-body}
